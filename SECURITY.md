@@ -1,7 +1,5 @@
 # Security Policy
 
-> 🌍 **Other languages**: [Français](SECURITY_fr.md) | [العربية](SECURITY_ar.md)
-
 ## 🔒 Our Commitment
 
 The Mauritania Programmers Community takes the security of our projects and community seriously. We appreciate your efforts to responsibly disclose security vulnerabilities.

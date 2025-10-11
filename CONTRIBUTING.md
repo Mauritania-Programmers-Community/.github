@@ -1,7 +1,5 @@
 # Contributing Guide
 
-> 🌍 **Other languages**: [Français](CONTRIBUTING_fr.md) | [العربية](CONTRIBUTING_ar.md)
-
 ## Welcome!
 
 Thank you for your interest in contributing to the Mauritania Programmers Community! 🇲🇷💻
