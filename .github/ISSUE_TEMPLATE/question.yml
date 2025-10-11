@@ -6,74 +6,40 @@ body:
   - type: markdown
     attributes:
       value: |
-        Got a question? We're here to help! 🤝
+        Need help? Just ask! 🤝
 
-        **Before asking:**
-        - Check if your question is answered in the documentation
-        - Search existing issues and discussions
-        - Consider asking in [GitHub Discussions](https://github.com/Mauritania-Programmers-Community/.github/discussions) for broader community input
+        **Tip:** Try [Discussions](https://github.com/Mauritania-Programmers-Community/.github/discussions) for general questions - you'll get answers from the whole community!
 
   - type: textarea
     id: question
     attributes:
-      label: Your Question
-      description: What would you like to know?
-      placeholder: How do I...?
-    validations:
-      required: true
-
-  - type: textarea
-    id: context
-    attributes:
-      label: Context
-      description: Provide any relevant context or what you've already tried
+      label: Your question
+      description: What do you need help with?
       placeholder: |
-        I'm trying to...
-        I've already tried...
+        Example: "How do I push my code to GitHub?"
 
-  - type: textarea
-    id: expected
-    attributes:
-      label: What You Want to Achieve
-      description: What outcome are you looking for?
-      placeholder: I want to accomplish...
-
-  - type: dropdown
-    id: category
-    attributes:
-      label: Question Category
-      description: What is your question about?
-      options:
-        - Installation & Setup
-        - Usage & Features
-        - Contributing
-        - Documentation
-        - Best Practices
-        - Troubleshooting
-        - Other
+        What I tried: I ran "git push" but got an error
     validations:
       required: true
 
   - type: dropdown
     id: level
     attributes:
-      label: Your Experience Level
-      description: This helps us tailor our answer
+      label: Your experience level
+      description: Helps us give the right answer
       options:
-        - Beginner - New to programming/GitHub
-        - Intermediate - Some experience
-        - Advanced - Experienced developer
+        - Beginner (new to this)
+        - Intermediate (some experience)
+        - Advanced (experienced)
     validations:
       required: true
 
   - type: checkboxes
     id: checklist
     attributes:
-      label: Pre-submission Checklist
+      label: Quick check
       options:
-        - label: I have searched existing issues and discussions
+        - label: I searched for similar questions
           required: true
-        - label: I have read the documentation
-          required: true
-        - label: I agree to follow this project's Code of Conduct
+        - label: I agree to follow the Code of Conduct
           required: true

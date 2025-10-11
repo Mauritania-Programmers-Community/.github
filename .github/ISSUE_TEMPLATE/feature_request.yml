@@ -6,77 +6,50 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for suggesting a new feature! 💡
+        Got an idea? We'd love to hear it! 💡
 
-        Please describe your idea below. The more details, the better!
-
-  - type: textarea
-    id: problem
-    attributes:
-      label: Problem Statement
-      description: Is your feature request related to a problem? Please describe.
-      placeholder: I'm frustrated when...
-    validations:
-      required: true
+        **Just tell us:**
+        - What you want
+        - Why it would be useful
 
   - type: textarea
-    id: solution
+    id: idea
     attributes:
-      label: Proposed Solution
-      description: Describe the solution you'd like
-      placeholder: I think it would be great if...
-    validations:
-      required: true
+      label: Your idea
+      description: What feature would you like to see?
+      placeholder: |
+        Example: "Add a dark mode toggle in the settings"
 
-  - type: textarea
-    id: alternatives
-    attributes:
-      label: Alternatives Considered
-      description: Have you considered any alternative solutions or features?
-      placeholder: I also thought about...
-
-  - type: dropdown
-    id: priority
-    attributes:
-      label: Priority
-      description: How important is this feature to you?
-      options:
-        - 🔥 Critical - Blocking my work
-        - 🟠 High - Would significantly improve my workflow
-        - 🟡 Medium - Nice to have
-        - 🟢 Low - Just an idea
+        Why: Many users prefer dark mode for late-night coding
     validations:
       required: true
 
   - type: dropdown
     id: willing
     attributes:
-      label: Are you willing to help implement this?
-      description: Would you like to contribute to implementing this feature?
+      label: Want to help build it?
+      description: Contributing is a great way to learn!
       options:
-        - "Yes, I can implement this"
-        - "Yes, with guidance"
-        - "No, but I can help test"
-        - "No, just suggesting"
+        - "Yes, I can try with help"
+        - "Yes, I know how to build this"
+        - "No, but I can test it"
+        - "Just suggesting the idea"
     validations:
       required: true
 
   - type: textarea
     id: additional
     attributes:
-      label: Additional Context
-      description: Add any other context, screenshots, or examples about the feature request
-      placeholder: Any mockups, examples, or additional information...
+      label: Anything else? (optional)
+      description: Screenshots, examples, or more details
+      placeholder: Add images, links, or more details here...
 
   - type: checkboxes
     id: checklist
     attributes:
-      label: Pre-submission Checklist
-      description: Please confirm the following
+      label: Quick check
       options:
-        - label: I have searched existing issues to make sure this isn't a duplicate
+        - label: I searched existing issues (no duplicates)
           required: true
-        - label: I have checked the documentation
-          required: true
-        - label: I agree to follow this project's Code of Conduct
+        - label: I agree to follow the Code of Conduct
           required: true
