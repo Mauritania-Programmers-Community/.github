@@ -1,0 +1,79 @@
+name: ❓ Question
+description: Ask a question about the project
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got a question? We're here to help! 🤝
+
+        **Before asking:**
+        - Check if your question is answered in the documentation
+        - Search existing issues and discussions
+        - Consider asking in [GitHub Discussions](https://github.com/Mauritania-Programmers-Community/.github/discussions) for broader community input
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: What would you like to know?
+      placeholder: How do I...?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Provide any relevant context or what you've already tried
+      placeholder: |
+        I'm trying to...
+        I've already tried...
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What You Want to Achieve
+      description: What outcome are you looking for?
+      placeholder: I want to accomplish...
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Question Category
+      description: What is your question about?
+      options:
+        - Installation & Setup
+        - Usage & Features
+        - Contributing
+        - Documentation
+        - Best Practices
+        - Troubleshooting
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: level
+    attributes:
+      label: Your Experience Level
+      description: This helps us tailor our answer
+      options:
+        - Beginner - New to programming/GitHub
+        - Intermediate - Some experience
+        - Advanced - Experienced developer
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Pre-submission Checklist
+      options:
+        - label: I have searched existing issues and discussions
+          required: true
+        - label: I have read the documentation
+          required: true
+        - label: I agree to follow this project's Code of Conduct
+          required: true
