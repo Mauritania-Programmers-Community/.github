@@ -36,8 +36,8 @@ Les vulnérabilités de sécurité ne doivent PAS être signalées via les issue
 - Remplissez le formulaire de rapport de vulnérabilité
 
 **Méthodes Alternatives** :
-- Envoyer un email aux administrateurs de l'organisation (coordonnées disponibles sur notre LinkedIn)
 - Message direct sur LinkedIn : [@مبرمجي-موريتانيا](https://linkedin.com/company/مبرمجي-موريتانيا)
+- Admins WhatsApp (pour les cas de sécurité urgents)
 
 #### 3. Inclure Ces Détails
 
@@ -190,7 +190,7 @@ Pour les questions ou préoccupations liées à la sécurité :
 
 - **Problèmes de Sécurité** : Utilisez les Avis de Sécurité GitHub
 - **Questions Générales de Sécurité** : GitHub Discussions (catégorie Sécurité)
-- **Affaires Urgentes** : LinkedIn [@مبرمجي-موريتانيا](https://linkedin.com/company/مبرمجي-موريتانيا)
+- **Affaires Urgentes** : LinkedIn [@مبرمجي-موريتانيا](https://linkedin.com/company/مبرمجي-موريتانيا) ou Admins WhatsApp
 
 ---
 

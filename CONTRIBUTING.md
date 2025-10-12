@@ -179,7 +179,7 @@ docs: Update installation instructions
 Our community communicates in:
 - 🇬🇧 **English** (primary language for code and documentation)
 - 🇫🇷 **French** (Français)
-- 🇸🇦 **Arabic** (العربية)
+- 🇲🇷 **Arabic** (العربية)
 
 ### Channels
 
@@ -187,6 +187,13 @@ Our community communicates in:
 - General questions and conversations
 - Feature discussions
 - Community announcements
+- **[Join Discussions →](../../discussions)**
+
+**WhatsApp Community**
+- Daily conversations and networking
+- Quick questions and support
+- 600+ active members
+- **[Join WhatsApp Group →](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)**
 
 **Issues**
 - Bug reports
@@ -216,6 +223,7 @@ By contributing, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md)
 If you experience or witness unacceptable behavior, please report it to:
 - GitHub Issues (for public matters)
 - LinkedIn: [@مبرمجي-موريتانيا](https://linkedin.com/company/مبرمجي-موريتانيا)
+- WhatsApp Admins (for urgent matters)
 - Organization administrators via direct message
 
 ---
@@ -298,6 +306,7 @@ Ready to contribute? Here's a quick checklist:
 Need help? We're here for you!
 
 - 💬 **GitHub Discussions**: [Ask the community](../../discussions)
+- 💚 **WhatsApp**: [Join 600+ members](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)
 - 🐛 **Issues**: [Report bugs or request features](../../issues)
 - 💼 **LinkedIn**: [Connect with us](https://linkedin.com/company/مبرمجي-موريتانيا)
 
