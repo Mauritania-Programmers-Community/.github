@@ -24,6 +24,48 @@ We are building a vibrant tech ecosystem in Mauritania by **connecting talent**,
 
 ---
 
+## 👥 Community Leaders
+
+Meet the dedicated individuals leading the Mauritania Programmers Community:
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/aziz0x00">
+<img src="https://github.com/aziz0x00.png" width="100" style="border-radius: 50%;" alt="Aziz"/>
+<br />
+<strong>Aziz</strong>
+</a>
+<br />
+<sub>Co-Founder & Community Lead</sub>
+</td>
+<td align="center">
+<a href="https://github.com/Muhammed-OTP">
+<img src="https://github.com/Muhammed-OTP.png" width="100" style="border-radius: 50%;" alt="Muhammed"/>
+<br />
+<strong>Muhammed OTP</strong>
+</a>
+<br />
+<sub>Co-Founder & Tech Lead</sub>
+</td>
+<td align="center">
+<a href="https://github.com/ahmed-abdat">
+<img src="https://github.com/ahmed-abdat.png" width="100" style="border-radius: 50%;" alt="Ahmed"/>
+<br />
+<strong>Ahmed Abdat</strong>
+</a>
+<br />
+<sub>Co-Founder & Developer Relations</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🚀 Our Mission
 
 | Goal | Description |
