@@ -9,6 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/مبرمجي-موريتانيا)
 [![Members](https://img.shields.io/badge/Members-3+-green?style=for-the-badge)](https://github.com/orgs/Mauritania-Programmers-Community/people)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-600%2B-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)
 [![Founded](https://img.shields.io/badge/Founded-Sep_2024-blue?style=for-the-badge)](https://github.com/Mauritania-Programmers-Community)
 
 </div>
@@ -91,6 +92,26 @@ We've set up **GitHub Discussions** as our main community forum! Here's where to
 **[Start a Discussion →](https://github.com/Mauritania-Programmers-Community/.github/discussions)**
 
 💡 Check out our template posts in each category to see how to structure your contributions!
+
+---
+
+## 📱 Community Channels
+
+Connect with us on multiple platforms to stay engaged with the Mauritanian tech community!
+
+### 💬 GitHub Discussions
+**Best for:** Project discussions, technical Q&A, code reviews, and collaborative work
+
+**[Join GitHub Discussions →](https://github.com/Mauritania-Programmers-Community/.github/discussions)**
+
+### 💚 WhatsApp Community
+**Best for:** Daily conversations, networking, quick questions, and community updates
+
+- **600+ Active Members** discussing tech, sharing opportunities, and building connections
+- Chat in **Arabic, French, or English**
+- Share resources, ask questions, and stay connected with Mauritanian developers worldwide
+
+**[Join WhatsApp Group →](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)**
 
 ---
 
