@@ -36,8 +36,8 @@ Security vulnerabilities should NOT be reported through public GitHub issues.
 - Fill out the vulnerability report form
 
 **Alternative Methods**:
-- Email organization administrators (contact info available on our LinkedIn)
 - Direct message on LinkedIn: [@مبرمجي-موريتانيا](https://linkedin.com/company/مبرمجي-موريتانيا)
+- WhatsApp Admins (for urgent security matters)
 
 #### 3. Include These Details
 
@@ -190,7 +190,7 @@ For security-related questions or concerns:
 
 - **Security Issues**: Use GitHub Security Advisories
 - **General Security Questions**: GitHub Discussions (Security category)
-- **Urgent Matters**: LinkedIn [@مبرمجي-موريتانيا](https://linkedin.com/company/مبرمجي-موريتانيا)
+- **Urgent Matters**: LinkedIn [@مبرمجي-موريتانيا](https://linkedin.com/company/مبرمجي-موريتانيا) or WhatsApp Admins
 
 ---
 

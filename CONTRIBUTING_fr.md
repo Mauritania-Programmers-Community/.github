@@ -179,7 +179,7 @@ docs: Mise à jour des instructions d'installation
 Notre communauté communique en :
 - 🇬🇧 **Anglais** (langue principale pour le code et la documentation)
 - 🇫🇷 **Français**
-- 🇸🇦 **Arabe** (العربية)
+- 🇲🇷 **Arabe** (العربية)
 
 ### Canaux
 
@@ -187,6 +187,13 @@ Notre communauté communique en :
 - Questions générales et conversations
 - Discussions sur les fonctionnalités
 - Annonces de la communauté
+- **[Rejoindre les Discussions →](../../discussions)**
+
+**Communauté WhatsApp**
+- Conversations quotidiennes et réseautage
+- Questions rapides et support
+- 600+ membres actifs
+- **[Rejoindre le Groupe WhatsApp →](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)**
 
 **Issues**
 - Signalement de bugs
@@ -216,6 +223,7 @@ En contribuant, vous acceptez de respecter notre [Code de Conduite](CODE_OF_COND
 Si vous vivez ou êtes témoin d'un comportement inacceptable, veuillez le signaler à :
 - GitHub Issues (pour les questions publiques)
 - LinkedIn : [@مبرمجي-موريتانيا](https://linkedin.com/company/مبرمجي-موريتانيا)
+- Admins WhatsApp (pour les cas urgents)
 - Administrateurs de l'organisation via message direct
 
 ---
@@ -298,6 +306,7 @@ Prêt à contribuer ? Voici une checklist rapide :
 Besoin d'aide ? Nous sommes là pour vous !
 
 - 💬 **GitHub Discussions** : [Poser une question à la communauté](../../discussions)
+- 💚 **WhatsApp** : [Rejoindre 600+ membres](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)
 - 🐛 **Issues** : [Signaler des bugs ou demander des fonctionnalités](../../issues)
 - 💼 **LinkedIn** : [Connectez-vous avec nous](https://linkedin.com/company/مبرمجي-موريتانيا)
 
