@@ -10,6 +10,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/company/مبرمجي-موريتانيا)
   [![Members](https://img.shields.io/badge/Members-3-brightgreen)]()
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-600%2B-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)
   [![Founded](https://img.shields.io/badge/Founded-Sept_2024-orange)]()
 
   </div>
@@ -88,11 +89,20 @@
 
   ---
 
-  ## 📫 Contact & Social
+  ## 💬 Community Channels
 
-  - **LinkedIn:** [مبرمجي موريتانيا](https://linkedin.com/company/مبرمجي-موريتانيا)
-  - **GitHub:** [@Mauritania-Programmers-Community](https://github.com/Mauritania-Programmers-Community)
-  - **Location:** Mauritania 🇲🇷
+  **GitHub Discussions**
+  - Project discussions, Q&A, and announcements
+  - [Join Discussions →](https://github.com/Mauritania-Programmers-Community/.github/discussions)
+
+  **WhatsApp Community**
+  - Daily conversations with 600+ members
+  - Chat in Arabic, French, or English
+  - [Join WhatsApp Group →](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)
+
+  **LinkedIn**
+  - [مبرمجي موريتانيا](https://linkedin.com/company/مبرمجي-موريتانيا)
+  - Professional networking and updates
 
   ---
 
