@@ -39,7 +39,7 @@ Meet the dedicated individuals leading the Mauritania Programmers Community:
 <strong>Aziz</strong>
 </a>
 <br />
-<sub>Co-Founder & Community Lead</sub>
+<sub>Co-Founder & Technical Supervisor</sub>
 </td>
 <td align="center">
 <a href="https://github.com/Muhammed-OTP">
@@ -48,7 +48,7 @@ Meet the dedicated individuals leading the Mauritania Programmers Community:
 <strong>Muhammed OTP</strong>
 </a>
 <br />
-<sub>Co-Founder & Tech Lead</sub>
+<sub>Co-Founder & General Supervisor</sub>
 </td>
 <td align="center">
 <a href="https://github.com/ahmed-abdat">
@@ -57,7 +57,7 @@ Meet the dedicated individuals leading the Mauritania Programmers Community:
 <strong>Ahmed Abdat</strong>
 </a>
 <br />
-<sub>Co-Founder & Developer Relations</sub>
+<sub>Co-Founder & AI & Development Supervisor</sub>
 </td>
 </tr>
 </table>
