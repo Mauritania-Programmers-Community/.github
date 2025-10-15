@@ -127,7 +127,6 @@ We've set up **GitHub Discussions** as our main community forum! Here's where to
 | **💬 General Discussion** | Community conversations, tech news, and general topics (Arabic, French, or English!) |
 | **❓ Q&A** | Ask technical questions - all skill levels welcome! Tag with [beginner], [intermediate], or [advanced] |
 | **🚀 Projects & Showcase** | Share your projects, get feedback, and collaborate |
-| **📊 Polls** | Community surveys about tech preferences, learning paths, and projects |
 | **👋 Welcome & Introductions** | Introduce yourself and connect with the community |
 | **📚 Resources & Learning** | Share tutorials, articles, tools, and learning materials |
 
