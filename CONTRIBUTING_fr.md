@@ -2,140 +2,104 @@
 
 > 🌍 **Autres langues** : [English](CONTRIBUTING.md)
 
-## Bienvenue !
+Merci de votre intérêt pour contribuer à la Communauté des Programmeurs de Mauritanie ! 🇲🇷💻
 
-Merci de votre intérêt pour contribuer à la Mauritania Programmers Community ! 🇲🇷💻
-
-Nous construisons un écosystème technologique dynamique en Mauritanie, et vos contributions nous aident à grandir ensemble.
+Nous construisons un écosystème technologique dynamique en Mauritanie, et vos contributions nous aident à grandir.
 
 ---
 
-## 🚀 Comment Contribuer
+## 🚀 Démarrage Rapide
 
-### Pour les Débutants
+### 1. Fork le Dépôt
+Cliquez sur le bouton "Fork" en haut à droite de la page du dépôt.
 
-Si c'est votre première contribution sur GitHub, ne vous inquiétez pas ! Voici un guide simple :
-
-#### 1. Faire un Fork du Projet
-Cliquez sur le bouton « Fork » en haut à droite de la page du dépôt.
-
-#### 2. Cloner Votre Fork
+### 2. Clonez Votre Fork
 ```bash
-git clone https://github.com/VOTRE-NOM-UTILISATEUR/NOM-DU-DEPOT.git
-cd NOM-DU-DEPOT
+git clone https://github.com/VOTRE-NOM/NOM-DEPOT.git
+cd NOM-DEPOT
 ```
 
-#### 3. Créer une Branche
+### 3. Créez une Branche
 ```bash
-git checkout -b ma-nouvelle-fonctionnalite
+git checkout -b nom-de-votre-fonctionnalite
+
+# Exemples de bons noms de branches :
+git checkout -b fix/faute-dans-readme
+git checkout -b feature/ajouter-mode-sombre
+git checkout -b docs/mise-a-jour-installation
 ```
 
-#### 4. Faire Vos Modifications
+### 4. Effectuez Vos Modifications
 - Écrivez du code clair et bien commenté
-- Suivez les normes de codage du projet
-- Testez minutieusement vos modifications
+- Suivez les standards de code du projet
+- Testez vos modifications
 
-#### 5. Commiter Vos Modifications
+### 5. Commitez Vos Modifications
 ```bash
 git add .
-git commit -m "Ajout : Brève description de vos modifications"
+git commit -m "type: brève description"
+
+# Exemples :
+git commit -m "feat: ajouter authentification utilisateur"
+git commit -m "fix: corriger bug navigation mobile"
+git commit -m "docs: mettre à jour guide d'installation"
 ```
 
-#### 6. Pousser vers GitHub
+### 6. Poussez vers Votre Fork
 ```bash
-git push origin ma-nouvelle-fonctionnalite
+git push origin nom-de-votre-fonctionnalite
 ```
 
-#### 7. Créer une Pull Request
-- Accédez à votre fork sur GitHub
-- Cliquez sur « New Pull Request »
-- Fournissez une description claire de vos modifications
-- Liez les issues connexes le cas échéant
+### 7. Créez une Pull Request
+- Allez sur votre fork sur GitHub
+- Cliquez sur "New Pull Request"
+- Remplissez le template de PR
+- Liez les issues associées
 
 ---
 
-## 📝 Types de Contributions
+## 📝 Comment Contribuer?
 
-Nous accueillons différents types de contributions :
+### Code
+- Nouvelles fonctionnalités et améliorations
+- Corrections de bugs
+- Améliorations de performance
+- Refactorisation du code
 
-### 💻 Contributions au Code
-- **Nouvelles Fonctionnalités** : Implémenter de nouvelles fonctionnalités
-- **Corrections de Bugs** : Résoudre les problèmes signalés
-- **Améliorations de Performance** : Optimiser le code existant
-- **Refactorisation** : Améliorer la qualité et la maintenabilité du code
+### Documentation
+- Amélioration des README
+- Tutoriels et guides
+- Exemples de code
+- Correction de fautes
 
-### 📚 Documentation
-- Améliorer les fichiers README
-- Rédiger des tutoriels et des guides
-- Traduire la documentation (français, arabe)
-- Ajouter des exemples de code
-- Corriger les fautes de frappe et clarifier les explications
-
-### 🐛 Signalement de Bugs
-- Utiliser les templates d'issues
-- Fournir des étapes de reproduction claires
-- Inclure des captures d'écran si applicable
-- Préciser votre environnement (OS, navigateur, versions)
-
-### 💡 Suggestions de Fonctionnalités
-- Proposer de nouvelles fonctionnalités
-- Suggérer des améliorations UX
-- Partager des idées dans les Discussions
-
-### 🌍 Traductions
-Aidez à rendre notre communauté accessible en traduisant la documentation vers :
-- Le français
-- L'arabe (العربية)
+### Issues
+- Rapports de bugs (utilisez les templates)
+- Suggestions de fonctionnalités
+- Questions et discussions
 
 ---
 
-## ✅ Normes de Code
+## ✅ Standards de Code
 
 ### Directives Générales
 - **Lisibilité** : Écrivez du code facile à comprendre
+- **Tests** : Testez vos modifications avant de soumettre
+- **Cohérence** : Suivez les patterns de code existants
 - **Documentation** : Ajoutez des commentaires pour la logique complexe
-- **Tests** : Incluez des tests pour les nouvelles fonctionnalités
-- **Cohérence** : Suivez les modèles de code existants
 
-### Normes Spécifiques aux Langages
-
-#### JavaScript/TypeScript
-- Utilisez la syntaxe ES6+ moderne
-- Suivez la configuration ESLint
-- Utilisez des noms de variables significatifs
-- Ajoutez des commentaires JSDoc pour les fonctions
-
-#### Python
-- Suivez le guide de style PEP 8
-- Utilisez les annotations de type le cas échéant
-- Rédigez des docstrings pour les fonctions et classes
-
-#### Autres Langages
-- Suivez les meilleures pratiques de la communauté
-- Maintenez la cohérence avec le code existant
-
-### Messages de Commit Git
-
-Utilisez des messages de commit clairs et descriptifs suivant ce format :
+### Format des Messages de Commit
 
 ```
 type: Brève description (max 50 caractères)
-
-Explication détaillée si nécessaire (max 72 caractères par ligne)
 
 Types :
 - feat: Nouvelle fonctionnalité
 - fix: Correction de bug
 - docs: Modifications de documentation
-- style: Formatage du code (pas de changement logique)
+- style: Formatage du code (pas de changement de logique)
 - refactor: Restructuration du code
-- test: Ajout ou modification de tests
+- test: Ajout ou mise à jour de tests
 - chore: Tâches de maintenance
-
-Exemples :
-feat: Ajout du système d'authentification utilisateur
-fix: Résolution de l'erreur de chargement sur mobile
-docs: Mise à jour des instructions d'installation
 ```
 
 ---
@@ -143,66 +107,39 @@ docs: Mise à jour des instructions d'installation
 ## 🔍 Processus de Pull Request
 
 ### Avant de Soumettre
+1. Testez vos modifications
+2. Exécutez les linters/formatters (si disponibles)
+3. Mettez à jour la documentation si nécessaire
+4. Suivez le template de PR
 
-1. **Mettre à Jour la Documentation** : Mettez à jour le README ou les docs si nécessaire
-2. **Tester Vos Modifications** : Assurez-vous que tout fonctionne
-3. **Vérifier la Qualité du Code** : Exécutez les linters et formateurs
-4. **Mettre à Jour les Tests** : Ajoutez ou modifiez les tests selon les besoins
-
-### Soumettre Votre PR
-
-1. **Titre Clair** : Utilisez un titre descriptif
-2. **Description** : Expliquez quoi et pourquoi
-3. **Lier les Issues** : Référencez les issues connexes
-4. **Captures d'Écran** : Ajoutez-en si des modifications UI sont impliquées
-5. **Liste de Vérification** : Complétez la checklist du template PR
-
-### Processus de Review
-
-1. **Vérifications Automatiques** : Les pipelines CI/CD s'exécuteront automatiquement
-2. **Revue de Code** : Les mainteneurs réviseront votre code
-3. **Feedback** : Répondez aux commentaires de review
-4. **Approbation** : Une fois approuvée, votre PR sera fusionnée
-5. **Reconnaissance** : Vous serez ajouté à notre liste de contributeurs !
-
-### Après la Fusion
-
-- Votre contribution sera incluse dans la prochaine version
-- Vous serez reconnu dans les notes de version
-- Pensez à aider les autres en révisant des PRs
+### Après Soumission
+1. Les vérifications automatiques vont s'exécuter
+2. Les mainteneurs vont réviser votre code
+3. Répondez aux commentaires de révision
+4. Une fois approuvé, votre PR sera fusionné !
 
 ---
 
-## 💬 Communication
+## 💬 Obtenir de l'Aide
 
-### Langues
-Notre communauté communique en :
-- 🇬🇧 **Anglais** (langue principale pour le code et la documentation)
-- 🇫🇷 **Français**
-- 🇲🇷 **Arabe** (العربية)
-
-### Canaux
+### Canaux de Communication
 
 **GitHub Discussions**
-- Questions générales et conversations
-- Discussions sur les fonctionnalités
-- Annonces de la communauté
-- **[Rejoindre les Discussions →](../../discussions)**
+- Questions générales et discussions de fonctionnalités
+- [Rejoindre les Discussions →](../../discussions)
 
 **Communauté WhatsApp**
-- Conversations quotidiennes et réseautage
-- Questions rapides et support
+- Questions rapides et conversations quotidiennes
 - 600+ membres actifs
-- **[Rejoindre le Groupe WhatsApp →](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)**
+- [Rejoindre le Groupe WhatsApp →](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)
 
-**Issues**
-- Signalement de bugs
-- Demandes de fonctionnalités
-- Discussions techniques
+**GitHub Issues**
+- Rapports de bugs et demandes de fonctionnalités
+- [Voir les Issues →](../../issues)
 
 **LinkedIn**
+- Actualités de la communauté et networking
 - [@مبرمجي-موريتانيا](https://linkedin.com/company/مبرمجي-موريتانيا)
-- Actualités de la communauté et réseautage
 
 ---
 
@@ -210,107 +147,29 @@ Notre communauté communique en :
 
 En contribuant, vous acceptez de respecter notre [Code de Conduite](CODE_OF_CONDUCT.md).
 
-### Principes Clés
+**Principes Clés :**
+- Soyez respectueux et bienveillant
+- Accueillez les développeurs de tous niveaux
+- Fournissez des retours constructifs
+- Soyez patient - tout le monde apprend
 
-- **Soyez Respectueux** : Traitez tout le monde avec respect et gentillesse
-- **Soyez Inclusif** : Accueillez les développeurs de tous niveaux
-- **Soyez Constructif** : Fournissez des retours utiles
-- **Soyez Professionnel** : Maintenez le professionnalisme dans toutes les interactions
-- **Soyez Patient** : Rappelez-vous que tout le monde apprend
-
-### Signalement de Problèmes
-
-Si vous vivez ou êtes témoin d'un comportement inacceptable, veuillez le signaler à :
-- GitHub Issues (pour les questions publiques)
-- LinkedIn : [@مبرمجي-موريتانيا](https://linkedin.com/company/مبرمجي-موريتانيا)
-- Admins WhatsApp (pour les cas urgents)
-- Administrateurs de l'organisation via message direct
+**Signaler des Problèmes :** Si vous êtes témoin d'un comportement inacceptable, contactez les administrateurs via GitHub Issues ou LinkedIn.
 
 ---
 
-## 🎓 Ressources pour Débutants
+## 🎓 Nouveau dans l'Open Source?
 
-### Apprendre Git et GitHub
-- [Manuel Git](https://guides.github.com/introduction/git-handbook/)
-- [Guides GitHub](https://guides.github.com/)
-- [Premières Contributions](https://github.com/firstcontributions/first-contributions)
+### Ressources d'Apprentissage
+- [Guide First Contributions](https://github.com/firstcontributions/first-contributions)
+- [GitHub Guides](https://guides.github.com/)
 - [Comment Contribuer à l'Open Source](https://opensource.guide/fr/how-to-contribute/)
 
-### Ressources de Programmation
-- [MDN Web Docs](https://developer.mozilla.org/fr/) - Développement web
-- [Python.org](https://www.python.org/doc/) - Documentation Python
-- [freeCodeCamp](https://www.freecodecamp.org/) - Cours de programmation gratuits
+### Besoin d'Aide?
+- Posez des questions dans [GitHub Discussions](../../discussions)
+- Rejoignez notre [communauté WhatsApp](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)
+- Consultez le CONTRIBUTING.md spécifique au projet pour des directives supplémentaires
 
-### Tutoriels de la Communauté
-- Consultez nos Discussions GitHub pour des tutoriels créés par la communauté
-- Participez à nos sessions d'apprentissage hebdomadaires
-- Posez des questions dans la catégorie Q&A
-
----
-
-## 🌟 Reconnaissance
-
-Nous valorisons et reconnaissons tous les contributeurs :
-
-### Avantages pour les Contributeurs
-- 📊 **Profil GitHub** : Listé comme contributeur
-- 🏆 **Notes de Version** : Mentionné dans les notes de version
-- 💼 **Mentorat** : Accès à des développeurs expérimentés
-- 🎉 **Événements Communautaires** : Invitations aux meetups et hackathons
-- 📚 **Opportunités d'Apprentissage** : Ateliers et conférences exclusifs
-- 🌐 **Réseautage** : Connectez-vous avec des développeurs mauritaniens du monde entier
-
-### Niveaux de Contributeurs
-- **Contributeur Débutant** : Votre première PR fusionnée
-- **Contributeur Régulier** : 3+ PRs fusionnées
-- **Contributeur Principal** : Contributions cohérentes et de haute qualité
-- **Mainteneur** : Leaders de confiance de la communauté
-
----
-
-## 📋 Templates d'Issues et PR
-
-Nous fournissons des templates pour vous aider :
-
-### Templates d'Issues
-- 🐛 **Signalement de Bug** : Signaler un problème
-- 💡 **Demande de Fonctionnalité** : Suggérer une nouvelle fonctionnalité
-- 📚 **Documentation** : Améliorations de la documentation
-- ❓ **Question** : Demander de l'aide
-
-### Template de Pull Request
-Suivez le template PR pour vous assurer que toutes les informations nécessaires sont incluses.
-
----
-
-## 🚀 Checklist de Démarrage
-
-Prêt à contribuer ? Voici une checklist rapide :
-
-- [ ] Lire ce guide de contribution
-- [ ] Lire le [Code de Conduite](CODE_OF_CONDUCT.md)
-- [ ] Faire un fork du dépôt
-- [ ] Cloner votre fork
-- [ ] Créer une nouvelle branche
-- [ ] Faire vos modifications
-- [ ] Tester vos modifications
-- [ ] Commiter avec des messages clairs
-- [ ] Pousser vers votre fork
-- [ ] Créer une Pull Request
-- [ ] Répondre aux retours de review
-
----
-
-## ❓ Questions ?
-
-Besoin d'aide ? Nous sommes là pour vous !
-
-- 💬 **GitHub Discussions** : [Poser une question à la communauté](../../discussions)
-- 💚 **WhatsApp** : [Rejoindre 600+ membres](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)
-- 🐛 **Issues** : [Signaler des bugs ou demander des fonctionnalités](../../issues)
-- 💼 **LinkedIn** : [Connectez-vous avec nous](https://linkedin.com/company/مبرمجي-موريتانيا)
-
-N'hésitez pas à poser des questions. Rappelez-vous, chaque expert a été débutant un jour !
+**Rappelez-vous** : Chaque expert a été débutant un jour. N'hésitez pas à poser des questions !
 
 ---
 
@@ -326,6 +185,6 @@ En contribuant, vous acceptez que vos contributions soient sous la même licence
 
 Fait avec ❤️ par la communauté technologique mauritanienne
 
-[Rejoindre les Discussions](../../discussions) • [Voir les Issues](../../issues) • [LinkedIn](https://linkedin.com/company/مبرمجي-موريتانيا)
+[Rejoindre Discussions](../../discussions) • [Voir Issues](../../issues) • [LinkedIn](https://linkedin.com/company/مبرمجي-موريتانيا)
 
 </div>
