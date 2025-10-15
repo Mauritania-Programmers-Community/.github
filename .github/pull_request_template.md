@@ -29,10 +29,7 @@ Related to #
 
 ## ✅ Checklist
 
-- [ ] Code works and has been tested
-- [ ] Follows project code style
-- [ ] Documentation updated (if needed)
-- [ ] No console errors or warnings
+- [ ] Changes have been tested/verified
 - [ ] I have read the [Contributing Guide](../CONTRIBUTING.md)
 - [ ] I agree to follow the [Code of Conduct](../CODE_OF_CONDUCT.md)
 
