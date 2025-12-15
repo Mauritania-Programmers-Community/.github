@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/مبرمجي-موريتانيا)
 [![Members](https://img.shields.io/badge/Members-3+-green?style=for-the-badge)](https://github.com/orgs/Mauritania-Programmers-Community/people)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-600%2B-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-900%2B-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L13JBkYOBXqK9p8FYZE00x)
 [![Founded](https://img.shields.io/badge/Founded-Sep_2024-blue?style=for-the-badge)](https://github.com/Mauritania-Programmers-Community)
 
 </div>
@@ -93,7 +93,6 @@ Meet the dedicated individuals leading the Mauritania Programmers Community:
 - 💼 **Career Support** - Job opportunities and career guidance
 
 ---
-
 ## 🛠️ Tech Stack
 
 **Frontend** • **Backend** • **Mobile** • **DevOps**
